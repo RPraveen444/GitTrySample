@@ -1,0 +1,14 @@
+org\example\DAO\UserDAOImpl.class
+org\example\connection\DBConnection.class
+org\example\model\User.class
+org\example\model\ProjectManager.class
+org\example\model\ProjectAssigned.class
+org\example\model\Project.class
+org\example\model\UserActivity.class
+org\example\DAO\BaseDAO.class
+org\example\model\Task.class
+org\example\model\MileStone.class
+org\example\Main.class
+org\example\service\UserService.class
+org\example\model\Client.class
+org\example\UserApp.class
