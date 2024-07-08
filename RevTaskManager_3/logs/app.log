@@ -1,0 +1,35 @@
+2024-07-07 14:42:36 INFO  org.example.Main - Program Streated..
+2024-07-07 14:43:59 INFO  org.example.Main - Program Streated..
+2024-07-07 14:44:00 INFO  org.example.Main - call the service class..
+2024-07-07 22:25:41 INFO  org.example.Main - Program Streated..
+2024-07-07 22:25:42 INFO  org.example.Main - Call the Service Class..
+2024-07-07 22:26:01 INFO  org.example.Main - Program Streated..
+2024-07-07 22:26:02 INFO  org.example.Main - Call the Service Class..
+2024-07-07 22:35:05 INFO  org.example.Main - Program Streated..
+2024-07-07 22:35:06 INFO  org.example.Main - Call the Service Class..
+2024-07-07 22:35:20 INFO  org.example.DAO.UserDAOImpl - Attempting to log in user with username: tm_raj
+2024-07-07 22:35:20 INFO  org.example.DAO.UserDAOImpl - User found: tm_raj
+2024-07-08 15:36:05 INFO  org.example.Main - Program Streated..
+2024-07-08 15:36:07 INFO  org.example.Main - Call the Service Class..
+2024-07-08 15:36:34 INFO  org.example.DAO.UserDAOImpl - Attempting to log in user with username: pm_xyz
+2024-07-08 15:36:35 INFO  org.example.DAO.UserDAOImpl - User found: pm_xyz
+2024-07-08 15:36:45 INFO  org.example.DAO.UserDAOImpl - Attempting to retrieve usernames with role: TeamMember
+2024-07-08 15:36:45 INFO  org.example.DAO.UserDAOImpl - Query executed successfully.
+2024-07-08 15:45:11 INFO  org.example.Main - Program Streated..
+2024-07-08 15:45:12 INFO  org.example.Main - Call the Service Class..
+2024-07-08 15:45:27 INFO  org.example.DAO.UserDAOImpl - Attempting to log in user with username: 1
+2024-07-08 15:45:27 WARN  org.example.DAO.UserDAOImpl - No user found with username: 1
+2024-07-08 15:45:41 INFO  org.example.DAO.UserDAOImpl - Attempting to log in user with username: tm_raj
+2024-07-08 15:45:41 INFO  org.example.DAO.UserDAOImpl - User found: tm_raj
+2024-07-08 15:48:10 INFO  org.example.Main - Program Streated..
+2024-07-08 15:48:11 INFO  org.example.Main - Call the Service Class..
+2024-07-08 15:48:25 INFO  org.example.DAO.UserDAOImpl - Attempting to log in user with username: pm_xyz
+2024-07-08 15:48:25 INFO  org.example.DAO.UserDAOImpl - User found: pm_xyz
+2024-07-08 15:50:14 INFO  org.example.DAO.UserDAOImpl - Attempting to log in user with username: tm_raj
+2024-07-08 15:50:14 INFO  org.example.DAO.UserDAOImpl - User found: tm_raj
+2024-07-08 15:55:04 INFO  org.example.Main - Program Streated..
+2024-07-08 15:55:05 INFO  org.example.Main - Call the Service Class..
+2024-07-08 15:55:17 INFO  org.example.DAO.UserDAOImpl - Attempting to log in user with username: admin
+2024-07-08 15:55:17 INFO  org.example.DAO.UserDAOImpl - User found: admin
+2024-07-08 15:55:22 INFO  org.example.DAO.UserDAOImpl - Attempting to retrieve usernames with role: TeamMember
+2024-07-08 15:55:22 INFO  org.example.DAO.UserDAOImpl - Query executed successfully.
